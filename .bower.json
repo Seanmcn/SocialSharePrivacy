@@ -1,17 +1,17 @@
 {
   "name": "social-share-privacy-light",
-  "version": "1.0",
+  "version": "1.1",
   "main": "javascripts/socialshareprivacy.js",
   "ignore": [],
   "dependencies": {},
   "homepage": "https://github.com/Seanmcn/SocialSharePrivacy",
-  "_release": "1.0",
+  "_release": "1.1",
   "_resolution": {
     "type": "version",
-    "tag": "v1.0",
+    "tag": "v1.1",
     "commit": "58a6ee572c53a1bb8706c9d0e73ea73a83207cc7"
   },
   "_source": "git://github.com/Seanmcn/SocialSharePrivacy.git",
-  "_target": "~1.0",
+  "_target": "~1.1",
   "_originalSource": "SocialSharePrivacy"
 }
