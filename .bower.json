@@ -9,7 +9,7 @@
   "_resolution": {
     "type": "version",
     "tag": "v1.1",
-    "commit": "58a6ee572c53a1bb8706c9d0e73ea73a83207cc7"
+    "commit": "29b5fbb6c96559828f4c765252ae1a23e93ea1f9"
   },
   "_source": "git://github.com/Seanmcn/SocialSharePrivacy.git",
   "_target": "~1.1",
